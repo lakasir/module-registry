@@ -10,6 +10,17 @@
       "repository": "https://github.com/lakasir/warehouse-module",
       "download": "https://github.com/lakasir/warehouse-module/archive/refs/tags/v1.2.0.zip",
       "min_app_version": "1.1.0"
+    },
+    {
+      "name": "lakasir/debts-and-receivables",
+      "folder": "DebtsAndReceivables",
+      "title": "Debts And Receivables",
+      "description": "Advance Debts And Receivables",
+      "author": "lakasir",
+      "version": "1.0.0",
+      "repository": "https://github.com/lakasir/debts-and-receivables",
+      "download": "https://github.com/lakasir/debts-and-receivables/archive/refs/tags/v1.0.0.zip",
+      "min_app_version": "1.1.0"
     }
   ]
 }
