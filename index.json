@@ -6,7 +6,7 @@
       "title": "Warehouse",
       "description": "Raw materials, recipes, production batches",
       "author": "lakasir",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "repository": "https://github.com/lakasir/warehouse-module",
       "download": "https://github.com/lakasir/warehouse-module/archive/refs/tags/v1.2.0.zip",
       "min_app_version": "1.1.0"
